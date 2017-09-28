@@ -1,4 +1,5 @@
-#kaist ai school 1차
+# kaist ai school 1차
+
 ## 후기
 강의ppt내용은 ai, deep learning개론정도의 내용인데 설명은 일반인 대상으로 진행한 느낌
 
